@@ -4,11 +4,11 @@
         }
         
         div {
-            border-radius: 5px;
+            border-radius: 10px;
         }
         
         #header {
-            height: 120px;
+            height: 80px;
             width: 100%;
             /*background-color: aqua;*/
             /*background-color: rgb(44, 37, 123);*/
